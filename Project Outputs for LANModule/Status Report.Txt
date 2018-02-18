@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LANModule.PcbDoc]
+   Generated File[LANModule.TXT]
+   Generated File[LANModule.LDP]
+   Generated File[LANModule.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:57:56 PM On 18/02/2018

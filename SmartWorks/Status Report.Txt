@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:56:58 PM On 18/02/2018
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [LANModule.PcbDoc]
+   Generated File[LANModule.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:57:03 PM On 18/02/2018
