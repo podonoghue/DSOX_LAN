@@ -42,10 +42,10 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
+    D13
     D14
     D15
-    D18
+    D17
     D19
     D20
     D21
@@ -67,8 +67,8 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D15
-    D17
+    D14
+    D16
     D30
     D31
     D32
@@ -140,7 +140,7 @@ Generating : Bottom Solder
 
 Used DCodes :
     D29
-    D39
+    D42
     D43
     D44
     D45
@@ -163,7 +163,7 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D10
+    D13
     D29
 *************************************************************
 
@@ -175,7 +175,7 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D37
+    D36
 *************************************************************
 
 *************************************************************
@@ -186,6 +186,17 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D17
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : LANModule.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D51
 *************************************************************
 
